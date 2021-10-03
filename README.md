@@ -8,4 +8,4 @@ Here is the video to watch the tutorial.
 
 
 You can read more about it on our website here.
-[![Automate-Web-Browser-Opening-using-Python-Script blog post](https://techauthority.tech/2021/10/03/how-to-automate-web-browser-opening-and-visiting-using-python-script-to-increase-visitors-and-views/)](https://techauthority.tech/2021/10/03/how-to-automate-web-browser-opening-and-visiting-using-python-script-to-increase-visitors-and-views/)
+[![Automate-Web-Browser-Opening-using-Python-Script blog post](https://techauthorityorg.files.wordpress.com/2021/10/img_1556.jpg?w=1024)](https://techauthority.tech/2021/10/03/how-to-automate-web-browser-opening-and-visiting-using-python-script-to-increase-visitors-and-views/)
