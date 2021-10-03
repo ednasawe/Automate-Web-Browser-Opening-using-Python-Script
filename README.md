@@ -4,7 +4,9 @@ opening using python script to open websites to increase
 visitors and views.
 
 Here is the video to watch the tutorial.
-[![Automate-Web-Browser-Opening-using-Python-Script Video](https://img.youtube.com/vi/OlDldIS8XcI/0.jpg)](https://www.youtube.com/watch?v=OlDldIS8XcI)
+
+
+  [![Automate-Web-Browser-Opening-using-Python-Script Video](https://img.youtube.com/vi/OlDldIS8XcI/0.jpg)](https://www.youtube.com/watch?v=OlDldIS8XcI)
 
 
 You can read more about it on our website here.
